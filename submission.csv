@@ -91,7 +91,7 @@ PassengerId,Transported
 0194_02,True
 0194_03,False
 0204_01,False
-0208_01,True
+0208_01,False
 0209_01,False
 0214_01,False
 0214_02,False
@@ -151,7 +151,7 @@ PassengerId,Transported
 0328_01,True
 0329_01,True
 0332_01,True
-0335_01,False
+0335_01,True
 0339_01,False
 0339_02,False
 0339_03,False
@@ -2439,7 +2439,7 @@ PassengerId,Transported
 5329_01,False
 5329_02,True
 5329_03,False
-5329_04,False
+5329_04,True
 5329_05,False
 5329_06,False
 5329_07,True
